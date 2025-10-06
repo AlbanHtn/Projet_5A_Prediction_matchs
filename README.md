@@ -6,16 +6,23 @@ L’objectif de ce projet est de construire un modèle de Machine Learning capab
 ## 📂 Organisation du dépôt
 
 Projet_5A_Prediction_matchs/
+
 │ Programmes/
+
    -> P5A_Prepa_donnees.ipynb # préparation des données
+   
    -> P5A_Analyse_Exploratoire_EDA.ipynb # analyse des données
 
 │ Donnees/
+
    -> EloRatings.csv # Classements Elo (ClubElo, 2000–2025)
+   
    -> Matches.csv # Résultats et stats de matchs (2000–2025)
+   
    -> Matches_enrichies.csv # Ajout de nouvelles variables et nettoyage (2002-2025)
 
 │── requirements.txt 
+
 │── README.md 
 
 ## 🗃️ Données utilisées
